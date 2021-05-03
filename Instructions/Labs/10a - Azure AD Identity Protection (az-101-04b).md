@@ -275,7 +275,7 @@ The main tasks for this exercise are as follows:
 1. Validate Azure AD Identity Protection configuration by simulating risk events
 
 
-#### Task 1: Enable Azure AD Identity Protection
+#### Task 1: Enable Azure AD Identity Protection **This is not accurate anymore - Identity protection does not have to be created anymore, to be updated!!**
 
 1. From the lab virtual machine, start Microsoft Edge, browse to the Azure portal at [**http://portal.azure.com**](http://portal.azure.com) and sign in by using the Microsoft account you used to create the **AdatumLab101-4b** Azure AD tenant.
 
